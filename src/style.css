@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  margin-left: 40px;
+}
+li {
+  list-style: none;
+  text-align: center;
+}
+small {
+  padding: 20px;
+  line-height: 50px;
+}
+
+.stats {
+  text-align: center;
+}
