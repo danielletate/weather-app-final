@@ -57,7 +57,11 @@ hr {
   text-transform: capitalize;
 }
 .date {
-  font-size: 12px;
+  font-size: 9px;
+}
+
+.date:first-letter {
+  text-transform: capitalize;
 }
 .stats {
   text-align: center;
