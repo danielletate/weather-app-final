@@ -53,6 +53,8 @@ hr {
 }
 .description {
   font-size: 16px;
+  font-weight: 100;
+  text-transform: capitalize;
 }
 .date {
   font-size: 12px;
